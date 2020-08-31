@@ -1,3 +1,5 @@
+import math
+
 
 def sqrt(x):
-    return x ** 0.5
+    return math.sqrt(x)
